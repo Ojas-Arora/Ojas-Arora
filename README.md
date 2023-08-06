@@ -1,6 +1,6 @@
 # 💫 About Me:
 <img align ="right" alt="Coding"  width="320"  src="https://cdn.dribbble.com/users/4708248/screenshots/14864517/media/b062fc11710dae270fd4d914a6ff3f60.gif">
-Welcome to my GitHub profile!<br><br>👋 Hi there! I'm Ojas Arora, a passionate coder and lifelong learner.<br><br>🌱 I'm always curious and eager to embrace new technologies and programming languages.<br><br>🔧 I'm skilled in C,C++ programming languages.<br><br>🎯 I'm currently studying DSA and DBMS.<br><br>
+Welcome to my GitHub profile!<br><br>👋 Hi there! I'm Ojas Arora, a passionate coder and lifelong learner.<br><br>🌱 I'm always curious and eager to embrace new technologies and programming languages.<br><br>🔧 I'm skilled in C,C++ and Python(basics only) programming languages.<br><br>🎯 I'm currently studying DSA and DBMS.<br><br>
 
 
 ## 🌐 Socials:
