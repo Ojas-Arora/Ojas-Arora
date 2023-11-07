@@ -2,6 +2,8 @@
 <img align ="right" alt="Coding"  width="320"  src="https://cdn.dribbble.com/users/4708248/screenshots/14864517/media/b062fc11710dae270fd4d914a6ff3f60.gif">
 Welcome to my GitHub profile!<br><br>👋 Hi there! I'm Ojas Arora, a passionate coder and lifelong learner.<br><br>🌱 I'm always curious and eager to embrace new technologies and programming languages.<br><br>🔧 I'm skilled in C,C++ and Python(basics only) programming languages.<br><br>🎯 I'm currently studying DSA and DBMS.<br><br>
 
+[![An image of @ojasarora's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ojasarora)](https://holopin.io/@ojasarora)
+
 
 ## 🌐 Socials: 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ojas.arora14@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ojas.arora14) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ojas-arora-34910a24b/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@OjasArora2314)
