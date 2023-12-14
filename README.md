@@ -26,4 +26,5 @@ Welcome to my GitHub profile!<br><br>👋 Hi there! I'm Ojas Arora, a passionate
 ---
 [![](https://visitcount.itsvg.in/api?id=Ojas-Arora&icon=0&color=1)](https://visitcount.itsvg.in)
 
+[![Ojas-Arora's GitHub | Stats](https://stats.quine.sh/Ojas-Arora/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Ojas-Arora)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
