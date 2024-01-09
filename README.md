@@ -11,7 +11,7 @@ Welcome to my GitHub profile!<br><br>👋 Hi there! I'm Ojas Arora, a passionate
 # 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,github,mysql,vscode,postgres,MICROSOFT SQL SERVERvisualstudio,linkedin,discord" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,github,mysql,vscode,postgres,MICROSOFT SQL SERVER,visualstudio,linkedin,discord" />
   </a>
 </p>
 <img src="https://www.shutterstock.com/image-vector/dbms-mean-database-management-system-260nw-1858108441.jpg" alt="Image Alt Text" width="100" height="30"><img src="https://codelearnstorage.s3.amazonaws.com/CodeCamp/CodeCamp/Upload/Course/fa2bdb40f4e449dca4514de8c8bca52d.jpg" alt="Image Alt1 Text" width="80" height="30">
