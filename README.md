@@ -66,14 +66,14 @@ Welcome to my GitHub profile!<br><br>👋 Hi there! I'm Ojas Arora, a passionate
 ![](https://github-contributor-stats.vercel.app/api?username=Ojas-Arora&limit=5&theme=radical&combine_all_yearly_contributions=true)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 [![](https://visitcount.itsvg.in/api?id=Ojas-Arora&icon=0&color=1)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Ojas-Arora/count.svg?"  />
+</div>
+
 
 [![Ojas-Arora's GitHub | Stats](https://stats.quine.sh/Ojas-Arora/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Ojas-Arora)
 
 [![Ojas-Arora's GitHub | Languages Over Time](https://stats.quine.sh/Ojas-Arora/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Ojas-Arora)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
