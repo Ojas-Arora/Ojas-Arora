@@ -4,7 +4,21 @@
 Welcome to my GitHub profile!<br><br>👋 Hi there! I'm Ojas Arora, a passionate coder and lifelong learner.<br><br>🌱 I'm always curious and eager to embrace new technologies and programming languages.<br><br>🔧 I'm skilled in C,C++ and Python(basics only) programming languages.<br><br>🎯 I'm currently studying Data Structures,Algorithm and Development. <br><br> 👨‍💻 All of my projects are available at [https://personal-portfolio-website-lyart.vercel.app/] <br><br> 📫 How to reach me **ojas.arora14@gmail.com** <br><br>
 
 [![An image of @ojasarora's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ojasarora)](https://holopin.io/@ojasarora)
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<details>	
+ <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="105px" height="105px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" /></a>
+</div>
+</details><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🌐 Socials: 
 <div> <a href="https://twitter.com/@OjasArora2314" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
