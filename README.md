@@ -59,6 +59,17 @@ Welcome to my GitHub profile!<br><br>👋 Hi there! I'm Ojas Arora, a passionate
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Anaconda-Dark.svg" alt="typescript" width="40" height="40"/> 
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Discord.svg" width="40" height="40"/> 
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" width="40" height="40"/> 
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg" width="40" height="40"/> 
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Instagram.svg" width="40" height="40"/> 
+<img src="hhttps://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" width="40" height="40"/> 
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/OpenCV-Dark.svg" width="40" height="40"/>  
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Twitter.svg" width="40" height="40"/> 
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Ubuntu-Dark.svg" width="40" height="40"/>  
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" width="40" height="40"/>  
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Windows-Dark.svg" width="40" height="40"/>  
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
