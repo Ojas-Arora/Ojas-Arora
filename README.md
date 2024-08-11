@@ -67,7 +67,7 @@ Welcome to my GitHub profile!<br><br>👋 Hi there! I'm Ojas Arora, a passionate
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" width="40" height="40"/> 
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg" width="40" height="40"/> 
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Instagram.svg" width="40" height="40"/> 
-<img src="hhttps://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" width="40" height="40"/> 
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" width="40" height="40"/> 
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/OpenCV-Dark.svg" width="40" height="40"/>  
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Twitter.svg" width="40" height="40"/> 
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Ubuntu-Dark.svg" width="40" height="40"/>  
