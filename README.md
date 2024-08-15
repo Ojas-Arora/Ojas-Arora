@@ -21,6 +21,7 @@ Welcome to my GitHub profile!<br><br>👋 Hi there! I'm Ojas Arora, a passionate
 </details><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ![image](https://github.com/user-attachments/assets/eb116977-0fd4-4c6b-a791-0bf669f4ae6a)
+https://gssoc.girlscript.tech/contributorAnalytics
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 ## 🌐 Socials: 
