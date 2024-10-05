@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 💫 About Me:
 <img align ="right" alt="Coding"  width="320"  src="https://cdn.dribbble.com/users/4708248/screenshots/14864517/media/b062fc11710dae270fd4d914a6ff3f60.gif">
-Welcome to my GitHub profile!<br><br>👋 Hi there! I'm Ojas Arora, a passionate coder and lifelong learner.<br><br>🌱 I'm always curious and eager to embrace new technologies and programming languages.<br><br>🔧 I'm skilled in C,C++ and Python(basics only) programming languages.<br><br>🎯 I'm currently studying DSA and Development. <br><br> 👨‍💻 All of my projects are available at [https://personal-portfolio-website-lyart.vercel.app/] <br><br> 📫 How to reach me <br> ojas.arora14@gmail.com <br><br>
+Welcome to my GitHub profile!<br><br>👋 Hi there! I'm Ojas Arora, a passionate coder and lifelong learner.<br><br>🌱 I'm always curious and eager to embrace new technologies and programming languages.<br><br>🔧 I'm skilled in C,C++ and Python programming languages.<br><br>🎯 I'm currently studying DSA and Development. <br><br> 👨‍💻 All of my projects are available at [https://personal-portfolio-website-lyart.vercel.app/] <br><br> 📫 How to reach me <br> ojas.arora14@gmail.com <br><br>
 
 [![An image of @ojasarora's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ojasarora)](https://holopin.io/@ojasarora)
 
