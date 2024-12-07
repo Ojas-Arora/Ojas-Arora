@@ -10,6 +10,8 @@ Welcome to my **GitHub** profile!<br><br>👋 Hi there! I'm **Ojas Arora**, a pa
 ![image](https://github.com/user-attachments/assets/eb116977-0fd4-4c6b-a791-0bf669f4ae6a)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
+[![](https://visitcount.itsvg.in/api?id=Ojas-Arora&icon=0&color=1)](https://visitcount.itsvg.in)
+
 ## 🌐 Socials: 
 <div> <a href="https://twitter.com/@OjasArora2314" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://linkedin.com/in/ojas-arora-34910a24b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -87,7 +89,7 @@ Welcome to my **GitHub** profile!<br><br>👋 Hi there! I'm **Ojas Arora**, a pa
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Ojas-Arora&limit=5&theme=radical&combine_all_yearly_contributions=true)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-[![](https://visitcount.itsvg.in/api?id=Ojas-Arora&icon=0&color=1)](https://visitcount.itsvg.in)
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/Ojas-Arora/count.svg?"  />
 </div>
