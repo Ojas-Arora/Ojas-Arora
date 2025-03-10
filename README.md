@@ -94,10 +94,4 @@ Welcome to my **GitHub** profile!<br><br>👋 Hi there! I'm **Ojas Arora**, a pa
   <img src="https://profile-counter.glitch.me/Ojas-Arora/count.svg?"  />
 </div>
 
-
-[![Ojas-Arora's GitHub | Stats](https://stats.quine.sh/Ojas-Arora/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Ojas-Arora)
-
-[![Ojas-Arora's GitHub | Languages Over Time](https://stats.quine.sh/Ojas-Arora/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Ojas-Arora)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
