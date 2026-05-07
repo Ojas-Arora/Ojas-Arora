@@ -67,12 +67,7 @@ https://linktr.ee/OjasArora1423
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ojas-Arora&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Ojas-Arora&limit=5&theme=radical&combine_all_yearly_contributions=true)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Ojas-Arora/count.svg?"  />
-</div>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
